@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9879FB6C-3BC7-4B01-9EFE-30E4B1068207</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PuzzleFrame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>ABA76648-C020-4D2F-99A5-114394D23688</key>
+		<string>https://github.com/takayana/PuzzleFrame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.ios/PuzzleFrame.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>ABA76648-C020-4D2F-99A5-114394D23688</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/takayana/PuzzleFrame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>ABA76648-C020-4D2F-99A5-114394D23688</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>ABA76648-C020-4D2F-99A5-114394D23688</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PuzzleFrame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
